@@ -10,7 +10,7 @@ credits: true
 
 {% include feature/image.html objectid="coll033" width="50" %}
 
-{% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
+{% include feature/nav-menu.html sections="About the Collection" %}
 
 ## About the Collection
 
