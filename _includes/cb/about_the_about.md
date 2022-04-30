@@ -30,7 +30,7 @@ You can also see a page featuring [a bonanza of feature includes options](https:
 
 - Image --> `{% raw %}{% include feature/image.html objectid="demo_001" width="75" %}{% endraw %}`
 
-{% include feature/image.html objectid="TTH" width="75" %}
+{% include feature/image.html objectid="TTH.jpg" width="75" %}
 
 
 #### Include a PDF
