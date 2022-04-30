@@ -25,7 +25,7 @@ title: "Australia and Asia Trip"
 tagline: "LS 575 Final Project"
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "This is a digital library exhibit for a trip I took in Summer, 2019 to Australia and Asia"
+description: "This is a digital library exhibit for a trip I took in 2019 to Australia and Asia"
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
 author: "Mika Smith"
 
@@ -34,7 +34,8 @@ author: "Mika Smith"
 #
 # Set the metadata for your collection (the name of the csv file in your _data directory that describes the objects in your collection) 
 # Use the filename of your CSV **without** the ".csv" extension! E.g. _data/demo-metadata.csv --> "demo-metadata"
-metadata: metadatatestnew
+metadata: demo-metadata 
+# metadatatestnew
 
 ##########
 # Site/Organization Branding 
