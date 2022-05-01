@@ -2,7 +2,7 @@ field,display_name,browse_link,external_link
 title,Title,
 location,Location
 description,Description,
-Related Trip Notes,Related Trip Notes
+Related Trip Notes,Related Trip Notes,
 date,Date Created,
 subject,Subjects,true
 creator,Creator,
