@@ -14,12 +14,6 @@ credits: true
 
 ## About the Collection
 
-This site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
+In 2019, I lived in Australia and took two big trips: one a road trip along the western coast of Australia and one a country hopping trip through Asia. This collection contains some of my favorite images of the animals, nature, and human-made objects I saw along the way. I am the creator of all these images. 
 
-- a CSV of collection metadata
-- a folder of JPG images or PDF documents
-
-The template repository features four objects from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital). 
-
-For full details of creating your own collection site, visit [CollectionBuilder Documentation](https://collectionbuilder.github.io/cb-docs/)!
-
+I made this digital library as a final project for LS 575. However, while it serves as my final project, the audience I have in mind for the library is friends and family who have been wanting easy access to objects and information from the trips. 
