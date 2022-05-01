@@ -29,8 +29,7 @@
 {%- else -%}
 <div class="container-fluid mb-1 p-1">
     <div class="row align-items-center">
-        background-color: #145252;
-        <div id="title" class="{% if site.organization-logo-banner %}col-md-9{% else %}col-12{% endif %}">
+        <div id="title" class="{% if site.organization-logo-banner %}col-md-9{% else %}col-12{% endif %}" style="background-color:#145252">
             <h1><a class="text-dark font-weight-normal" href="{{ site.baseurl }}/" >{{ site.title }}</a></h1>	 
             {% if site.tagline %}<p>{{ site.tagline }}</p>{% endif %}
         </div>
