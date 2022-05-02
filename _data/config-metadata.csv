@@ -1,10 +1,10 @@
 field,display_name,browse_link,external_link
 title,Title,
+date,Date Created,
 location,Location
 description,Description,
-Related Trip Notes,Related Trip Notes,
-date,Date Created,
 subject,Subjects,true
+Related Trip Notes,Related Trip Notes,
 creator,Creator,
 latitude,Latitude
 longitude,Longitude
