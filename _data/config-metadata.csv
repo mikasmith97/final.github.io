@@ -4,10 +4,10 @@ date,Date Created,
 location,Location
 description,Description,
 subject,Subjects,true
-Related Trip Notes,Related Trip Notes,
+
 creator,Creator,
-latitude,Latitude
-longitude,Longitude
+latitude,Latitude (Estimated)
+longitude,Longitude (Estimated)
 source,Source
 identifier,Source Identifier,,
 type,Type,
